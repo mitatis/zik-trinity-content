@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "pubDate": "date",
+    "pubDate": "text",
     "work_start": "text",
     "work_end": "text",
     "date": "text"

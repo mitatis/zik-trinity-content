@@ -1,10 +1,10 @@
 ---
 title: 标题
 description: 摘要
-pubDate: <<date>>
-updatedDate: 2026-05-19
+pubDate:
+updatedDate:
 heroImage:
-image: /content-assets
+image:
 readingTime:
 tags:
   - 标签

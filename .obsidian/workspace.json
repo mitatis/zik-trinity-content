@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "f3df962e30e5e341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
             "id": "c56d8911899e6c01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poetry/20.3.28 尘风.md",
+                "file": "blog/novels/花.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.3.28 尘风"
+              "title": "花"
             }
           },
           {
@@ -55,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2.md",
+                "file": "poetry/20.7.14 落叶之春.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2"
+              "title": "20.7.14 落叶之春"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2.md",
+                "file": "poetry/20.8.1 and you may contribute a verse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2 的反向链接列表"
+              "title": "20.8.1 and you may contribute a verse 的反向链接列表"
             }
           },
           {
@@ -156,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2.md",
+                "file": "poetry/20.8.1 and you may contribute a verse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2 的出链列表"
+              "title": "20.8.1 and you may contribute a verse 的出链列表"
             }
           },
           {
@@ -238,36 +224,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c58e511fb73461f",
+  "active": "c56d8911899e6c01",
   "lastOpenFiles": [
-    "2026-05-31.md",
-    "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2.md",
-    "poetry/未命名.md",
-    "20.3.25关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2.md",
-    "poetry/21.3.1 隐约.md",
-    "poetry/20.8.1 and you may contribute a verse.md",
-    "poetry/20.7.19 O me o life..md",
-    "poetry/20.7.14 落叶之春.md",
-    "poetry/20.3.28 尘风.md",
-    "_templates/poetry.md",
-    "未命名 2.md",
-    "20.3.25关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 1.md",
-    "20.3.25关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗.md",
-    "poetry/22.4.11 晚秋.md",
-    "blog/2026-05-23 零刻 GTi14 Ultra.md",
-    "assets/Deskmini310.jpg",
+    "blog/_draft/shorts and passive 消费.md",
+    "README.md",
+    "blog/novels/花.md",
+    "content-assets/flower.jpg",
+    "blog/equips/2026-05-23 GTi14 Ultra.md",
+    "blog/_draft/软色情.md",
     "journal/未命名.md",
     "journal/2026-06-01.md",
-    "poetry/21.6.4 Nocturne.md",
-    "poetry/23.5.14花.md",
-    "poetry/22.9.5 凝固.md",
-    "poetry/22.1.10窄窗.md",
-    "poetry/22.8.8 快乐的死.md",
-    "poetry/22.6.14索拉里斯星.md",
-    "_templates/journal.md",
+    "blog/novels/雪.md",
+    "blog/_draft",
+    "blog/novels",
+    "blog/equips",
+    "blog/san/2023-5-16.md",
+    "blog/san/2021-09-07 贰拾.md",
+    "blog/san",
+    "poetry/20.3.28 尘风.md",
+    "journal/2026/2026-06/2026-06-01.md",
+    "journal/2026/2026-06",
+    "journal/2026",
+    "Users/zik/Pictures/Photos.md",
+    "Users/zik/Pictures",
+    "Users/zik",
+    "Users",
     "_templates/blog.md",
-    "未命名 1.md",
-    "未命名.base",
-    "_templates"
+    "_templates/poetry.md",
+    "_templates/journal.md",
+    "blog/_2026-05/2026-05-21-paper-digital-sample.md",
+    "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗.md",
+    "poetry/21.3.1 隐约.md",
+    "poetry/20.8.1 and you may contribute a verse.md",
+    "poetry/20.7.14 落叶之春.md",
+    "2026-05-31.md",
+    "poetry/未命名.md",
+    "20.3.25关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2.md",
+    "poetry/20.7.19 O me o life..md",
+    "未命名 2.md",
+    "content-assets/Deskmini310.jpg",
+    "未命名.base"
   ]
 }
