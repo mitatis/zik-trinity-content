@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/_draft/Mac mini.md",
+                "file": "blog/novels/花.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mac mini"
+              "title": "花"
             }
           },
           {
@@ -224,15 +224,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92484386e9c39817",
+  "active": "c56d8911899e6c01",
   "lastOpenFiles": [
-    "blog/san/2023-5-16.md",
     "blog/san/2021-09-07 贰拾.md",
-    "blog/equips/2026-05-23 GTi14 Ultra.md",
+    "blog/san/2023-5-16.md",
     "blog/novels/花.md",
-    "blog/novels/雪.md",
     "README.md",
-    "content-assets/二十.jpg",
+    "blog/_draft/Mac mini.md",
+    "blog/equips/2026-05-23 GTi14 Ultra.md",
+    "blog/novels/雪.md",
+    "content-assets/20.jpg",
     "Users/zik/Pictures/Photos.md",
     "Users/zik/Pictures",
     "Users/zik",
