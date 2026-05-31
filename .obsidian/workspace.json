@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/novels/花.md",
+                "file": "blog/novels/雪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "花"
+              "title": "雪"
             }
           },
           {
@@ -226,15 +226,15 @@
   },
   "active": "c56d8911899e6c01",
   "lastOpenFiles": [
+    "blog/novels/花.md",
+    "blog/novels/雪.md",
     "blog/_draft/shorts and passive 消费.md",
     "README.md",
-    "blog/novels/花.md",
     "content-assets/flower.jpg",
     "blog/equips/2026-05-23 GTi14 Ultra.md",
     "blog/_draft/软色情.md",
     "journal/未命名.md",
     "journal/2026-06-01.md",
-    "blog/novels/雪.md",
     "blog/_draft",
     "blog/novels",
     "blog/equips",
