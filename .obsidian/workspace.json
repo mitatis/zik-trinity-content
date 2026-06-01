@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "blog/novels/花.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poetry/20.7.14 落叶之春.md",
+                "file": "poetry/20.3.28 尘风.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.7.14 落叶之春"
+              "title": "20.3.28 尘风"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,11 +224,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c56d8911899e6c01",
+  "active": "5c58e511fb73461f",
   "lastOpenFiles": [
+    "poetry/20.7.19 O me o life..md",
+    "poetry/20.10.23 self-esteem.md",
+    "poetry/20.3.28 尘风.md",
+    "journal/2026-06-01.md",
+    "poetry/20.7.14 落叶之春.md",
+    "blog/novels/花.md",
+    "_templates/blog.md",
     "blog/san/2021-09-07 贰拾.md",
     "blog/san/2023-5-16.md",
-    "blog/novels/花.md",
     "README.md",
     "blog/_draft/Mac mini.md",
     "blog/equips/2026-05-23 GTi14 Ultra.md",
@@ -242,27 +248,21 @@
     "content-assets/flower.jpg",
     "blog/_draft/软色情.md",
     "journal/未命名.md",
-    "journal/2026-06-01.md",
     "blog/_draft",
     "blog/novels",
     "blog/equips",
     "blog/san",
-    "poetry/20.3.28 尘风.md",
     "journal/2026/2026-06/2026-06-01.md",
     "journal/2026/2026-06",
     "journal/2026",
-    "_templates/blog.md",
     "_templates/poetry.md",
     "_templates/journal.md",
     "blog/_2026-05/2026-05-21-paper-digital-sample.md",
     "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗.md",
     "poetry/21.3.1 隐约.md",
     "poetry/20.8.1 and you may contribute a verse.md",
-    "poetry/20.7.14 落叶之春.md",
     "2026-05-31.md",
     "poetry/未命名.md",
-    "20.3.25关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗 2.md",
-    "poetry/20.7.19 O me o life..md",
     "content-assets/Deskmini310.jpg",
     "未命名.base"
   ]
