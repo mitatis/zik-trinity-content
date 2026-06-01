@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-01.md",
+                "file": "blog/blogs/2026-03-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-01"
+              "title": "2026-03-07"
             }
           }
         ],
@@ -226,9 +226,12 @@
   },
   "active": "c5d74c8cee20fe76",
   "lastOpenFiles": [
+    "blog/blogs",
+    "blog/_draft/shorts and passive 消费.md",
+    "blog/blogs/2026-03-07.md",
     "journal/2026-06-01.md",
     "_templates/blog.md",
-    "blog/equips/2026-05-23 GTi14 Ultra.md",
+    "blog/blogs/2026-05-23 GTi14 Ultra.md",
     "content-assets/2026-06-01.png",
     "blog/_draft/Mac mini.md",
     "content-assets/README.md",
@@ -240,7 +243,6 @@
     "blog/_draft/软色情.md",
     "blog/novels/花.md",
     "journal/2026-05-23.md",
-    "blog/_draft/shorts and passive 消费.md",
     "content-assets/20.jpg",
     "poetry/20.3.28 尘风.md",
     "poetry/20.7.19 O me o life..md",
@@ -264,7 +266,6 @@
     "_templates/journal.md",
     "blog/_2026-05/2026-05-21-paper-digital-sample.md",
     "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗.md",
-    "poetry/21.3.1 隐约.md",
     "content-assets/Deskmini310.jpg",
     "未命名.base"
   ]
