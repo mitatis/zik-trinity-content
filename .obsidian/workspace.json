@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/novels/花.md",
-                "mode": "preview",
+                "file": "blog/equips/2026-05-23 GTi14 Ultra.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "花"
+              "title": "2026-05-23 GTi14 Ultra"
             }
           }
         ],
@@ -212,15 +212,20 @@
   },
   "active": "c56d8911899e6c01",
   "lastOpenFiles": [
-    "blog/_draft/2026-05-23 GTi14 Ultra.md",
+    "content-assets/2026-06-01.png",
+    "blog/_draft/Mac mini.md",
+    "content-assets/README.md",
+    "content-assets/GTi 14.jpeg",
+    "content-assets/ss.jpg",
+    "blog/equips/2026-05-23 GTi14 Ultra.md",
+    "blog/novels/雪.md",
+    "blog/san/2021-09-07 贰拾.md",
+    "blog/san/2023-5-16.md",
+    "blog/_draft/软色情.md",
+    "blog/novels/花.md",
     "journal/2026-06-01.md",
     "journal/2026-05-23.md",
     "blog/_draft/shorts and passive 消费.md",
-    "blog/novels/雪.md",
-    "blog/novels/花.md",
-    "blog/san/2023-5-16.md",
-    "blog/san/2021-09-07 贰拾.md",
-    "content-assets/GTi 14.jpg",
     "content-assets/20.jpg",
     "poetry/20.3.28 尘风.md",
     "poetry/20.7.19 O me o life..md",
@@ -228,13 +233,11 @@
     "poetry/20.7.14 落叶之春.md",
     "_templates/blog.md",
     "README.md",
-    "blog/_draft/Mac mini.md",
     "Users/zik/Pictures/Photos.md",
     "Users/zik/Pictures",
     "Users/zik",
     "Users",
     "content-assets/flower.jpg",
-    "blog/_draft/软色情.md",
     "journal/未命名.md",
     "blog/_draft",
     "blog/novels",
@@ -248,8 +251,6 @@
     "blog/_2026-05/2026-05-21-paper-digital-sample.md",
     "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗.md",
     "poetry/21.3.1 隐约.md",
-    "poetry/20.8.1 and you may contribute a verse.md",
-    "2026-05-31.md",
     "content-assets/Deskmini310.jpg",
     "未命名.base"
   ]
