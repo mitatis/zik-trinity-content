@@ -9,3 +9,19 @@ start_location:
 end_location:
 status:
 ---
+## **Main Mission**
+
+> Today's Most Important Unique Output
+> Why it matters
+
+- 
+
+## **Secondary**
+
+1. 
+2. 
+
+## First Step
+
+> Easy next steps within 5 mins
+1. 
