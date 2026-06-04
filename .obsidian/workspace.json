@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-02.md",
+                "file": "journal/2026-06-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "2026-06-04"
             }
           }
         ],
@@ -226,8 +226,10 @@
   },
   "active": "c5d74c8cee20fe76",
   "lastOpenFiles": [
-    "journal/2026-06-01.md",
     "journal/2026-06-02.md",
+    "journal/2026-06-04.md",
+    "journal/2026-06-01.md",
+    "journal/2026-06-03.md",
     "_templates/journal.md",
     "_templates/poetry.md",
     "blog/blogs/2026-03-07.md",
@@ -265,8 +267,6 @@
     "journal/2026/2026-06/2026-06-01.md",
     "journal/2026/2026-06",
     "journal/2026",
-    "blog/_2026-05/2026-05-21-paper-digital-sample.md",
-    "poetry/20.3.25 关于一棵多话的树苗不愿意去环游世界却要蹦跶进森林的烂诗.md",
     "content-assets/Deskmini310.jpg"
   ]
 }
