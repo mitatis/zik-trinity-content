@@ -20,8 +20,3 @@ status:
 
 1. 
 2. 
-
-## First Step
-
-> Easy next steps within 5 mins
-1. 

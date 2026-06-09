@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-04.md",
+                "file": "journal/2026-06-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-04"
+              "title": "2026-06-09"
             }
           }
         ],
@@ -226,14 +226,17 @@
   },
   "active": "c5d74c8cee20fe76",
   "lastOpenFiles": [
-    "journal/2026-06-02.md",
+    "journal/2026-06-06.md",
+    "journal/2026-06-09.md",
     "journal/2026-06-04.md",
+    "journal/2026-06-02.md",
+    "journal/2026-06-03.md",
+    "journal/2026-06.md",
+    "journal/2026-06-01.md",
+    "_templates/journal.md",
     "models.zik-3.com.md",
     "().md",
-    "_templates/journal.md",
     "_templates/poetry.md",
-    "journal/2026-06-01.md",
-    "journal/2026-06-03.md",
     "blog/blogs/2026-03-07.md",
     "blog/blogs",
     "blog/_draft/shorts and passive 消费.md",
@@ -254,9 +257,6 @@
     "poetry/20.3.28 尘风.md",
     "poetry/20.7.19 O me o life..md",
     "poetry/20.10.23 self-esteem.md",
-    "poetry/20.7.14 落叶之春.md",
-    "README.md",
-    "Users/zik/Pictures/Photos.md",
     "Users/zik/Pictures",
     "Users/zik",
     "Users",
