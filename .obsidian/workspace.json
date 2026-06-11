@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-10.md",
+                "file": "journal/2026-06-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-10"
+              "title": "2026-06-11"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b84332aa963e4e1",
@@ -227,13 +226,14 @@
   },
   "active": "c5d74c8cee20fe76",
   "lastOpenFiles": [
+    "journal/2026-06.md",
+    "journal/2026-06-11.md",
+    "journal/2026-06-10.md",
     "journal/2026-06-09.md",
     "journal/2026-06-04.md",
     "journal/2026-06-06.md",
-    "journal/2026-06-10.md",
     "journal/2026-06-02.md",
     "journal/2026-06-03.md",
-    "journal/2026-06.md",
     "journal/2026-06-01.md",
     "_templates/journal.md",
     "models.zik-3.com.md",
@@ -257,7 +257,6 @@
     "journal/2026-05-23.md",
     "content-assets/20.jpg",
     "poetry/20.3.28 尘风.md",
-    "poetry/20.7.19 O me o life..md",
     "Users/zik/Pictures",
     "Users/zik",
     "Users",
