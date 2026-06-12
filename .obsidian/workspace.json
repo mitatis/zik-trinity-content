@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-11.md",
+                "file": "journal/2026-06-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-11"
+              "title": "2026-06-12"
             }
           }
         ],
@@ -226,8 +226,9 @@
   },
   "active": "c5d74c8cee20fe76",
   "lastOpenFiles": [
-    "journal/2026-06-10.md",
     "journal/2026-06-11.md",
+    "journal/2026-06-12.md",
+    "journal/2026-06-10.md",
     "journal/2026-06.md",
     "journal/2026-06-09.md",
     "journal/2026-06-04.md",
@@ -256,7 +257,6 @@
     "blog/novels/花.md",
     "journal/2026-05-23.md",
     "content-assets/20.jpg",
-    "poetry/20.3.28 尘风.md",
     "Users/zik/Pictures",
     "Users/zik",
     "Users",
