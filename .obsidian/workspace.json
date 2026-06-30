@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-12.md",
+                "file": "journal/2026-06-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-12"
+              "title": "2026-06-30"
             }
           }
         ],
@@ -226,16 +226,18 @@
   },
   "active": "c5d74c8cee20fe76",
   "lastOpenFiles": [
-    "journal/2026-06-11.md",
     "journal/2026-06-12.md",
+    "journal/2026-06-24.md",
+    "journal/2026-06-30.md",
+    "journal/2026-06-11.md",
     "journal/2026-06-10.md",
-    "journal/2026-06.md",
-    "journal/2026-06-09.md",
-    "journal/2026-06-04.md",
     "journal/2026-06-06.md",
+    "journal/2026-06-01.md",
     "journal/2026-06-02.md",
     "journal/2026-06-03.md",
-    "journal/2026-06-01.md",
+    "journal/2026-06-04.md",
+    "journal/2026-06-09.md",
+    "journal/2026-06.md",
     "_templates/journal.md",
     "models.zik-3.com.md",
     "().md",
@@ -254,8 +256,6 @@
     "blog/san/2021-09-07 贰拾.md",
     "blog/san/2023-5-16.md",
     "blog/_draft/软色情.md",
-    "blog/novels/花.md",
-    "journal/2026-05-23.md",
     "content-assets/20.jpg",
     "Users/zik/Pictures",
     "Users/zik",
